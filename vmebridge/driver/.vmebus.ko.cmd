@@ -1,0 +1,1 @@
+cmd_/root/vetar_drv/vmebridge/driver/vmebus.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /root/vetar_drv/vmebridge/driver/vmebus.ko /root/vetar_drv/vmebridge/driver/vmebus.o /root/vetar_drv/vmebridge/driver/vmebus.mod.o

@@ -1,0 +1,386 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BIT_CLR_REG	svec.h	89;"	d
+BIT_CLR_REG	vetar.h	87;"	d
+BIT_SET_REG	svec.h	88;"	d
+BIT_SET_REG	vetar.h	86;"	d
+DEVICE_ATTR	svec-sysfs.c	/^static DEVICE_ATTR(interrupt_level,$/;"	p	file:
+DEVICE_ATTR	svec-sysfs.c	/^static DEVICE_ATTR(interrupt_vector,$/;"	p	file:
+ENABLE_CORE	svec.h	93;"	d
+ENABLE_CORE	vetar.h	91;"	d
+FUN0ADER	svec.h	84;"	d
+FUN0ADER	vetar.h	82;"	d
+GIT_VERSION	svec-drv.c	/^MODULE_VERSION(GIT_VERSION);$/;"	v
+GIT_VERSION	vetar-drv.c	/^MODULE_VERSION(GIT_VERSION);$/;"	v
+GLD_CSR_FMC_PRESENT_MASK	golden_regs.h	41;"	d
+GLD_CSR_FMC_PRESENT_R	golden_regs.h	44;"	d
+GLD_CSR_FMC_PRESENT_SHIFT	golden_regs.h	42;"	d
+GLD_CSR_FMC_PRESENT_W	golden_regs.h	43;"	d
+GLD_CSR_SLOT_COUNT_MASK	golden_regs.h	35;"	d
+GLD_CSR_SLOT_COUNT_R	golden_regs.h	38;"	d
+GLD_CSR_SLOT_COUNT_SHIFT	golden_regs.h	36;"	d
+GLD_CSR_SLOT_COUNT_W	golden_regs.h	37;"	d
+GLD_I2CR0_SCL_IN	golden_regs.h	55;"	d
+GLD_I2CR0_SCL_OUT	golden_regs.h	49;"	d
+GLD_I2CR0_SDA_IN	golden_regs.h	58;"	d
+GLD_I2CR0_SDA_OUT	golden_regs.h	52;"	d
+GLD_I2CR1_SCL_IN	golden_regs.h	69;"	d
+GLD_I2CR1_SCL_OUT	golden_regs.h	63;"	d
+GLD_I2CR1_SDA_IN	golden_regs.h	72;"	d
+GLD_I2CR1_SDA_OUT	golden_regs.h	66;"	d
+GLD_I2CR2_SCL_IN	golden_regs.h	83;"	d
+GLD_I2CR2_SCL_OUT	golden_regs.h	77;"	d
+GLD_I2CR2_SDA_IN	golden_regs.h	86;"	d
+GLD_I2CR2_SDA_OUT	golden_regs.h	80;"	d
+GLD_I2CR3_SCL_IN	golden_regs.h	97;"	d
+GLD_I2CR3_SCL_OUT	golden_regs.h	91;"	d
+GLD_I2CR3_SDA_IN	golden_regs.h	100;"	d
+GLD_I2CR3_SDA_OUT	golden_regs.h	94;"	d
+GLD_I2CR_SCL_IN	i2c.c	27;"	d	file:
+GLD_I2CR_SCL_OUT	i2c.c	25;"	d	file:
+GLD_I2CR_SDA_IN	i2c.c	28;"	d	file:
+GLD_I2CR_SDA_OUT	i2c.c	26;"	d	file:
+GLD_I2C_CORE_BASE	i2c.c	24;"	d	file:
+GLD_REG_CSR	golden_regs.h	102;"	d
+GLD_REG_I2CR0	golden_regs.h	104;"	d
+GLD_REG_I2CR1	golden_regs.h	106;"	d
+GLD_REG_I2CR2	golden_regs.h	108;"	d
+GLD_REG_I2CR3	golden_regs.h	110;"	d
+I2C_CR_ACK	oc_i2c_regs.h	19;"	d
+I2C_CR_IACK	oc_i2c_regs.h	20;"	d
+I2C_CR_RD	oc_i2c_regs.h	17;"	d
+I2C_CR_STA	oc_i2c_regs.h	15;"	d
+I2C_CR_STO	oc_i2c_regs.h	16;"	d
+I2C_CR_WR	oc_i2c_regs.h	18;"	d
+I2C_CTR_EN	oc_i2c_regs.h	12;"	d
+I2C_CTR_IEN	oc_i2c_regs.h	13;"	d
+I2C_REG_CR	oc_i2c_regs.h	9;"	d
+I2C_REG_CTR	oc_i2c_regs.h	6;"	d
+I2C_REG_PRER_HI	oc_i2c_regs.h	5;"	d
+I2C_REG_PRER_LO	oc_i2c_regs.h	4;"	d
+I2C_REG_RXR	oc_i2c_regs.h	8;"	d
+I2C_REG_SR	oc_i2c_regs.h	10;"	d
+I2C_REG_TXR	oc_i2c_regs.h	7;"	d
+I2C_SR_AL	oc_i2c_regs.h	24;"	d
+I2C_SR_BUSY	oc_i2c_regs.h	23;"	d
+I2C_SR_IF	oc_i2c_regs.h	26;"	d
+I2C_SR_RXACK	oc_i2c_regs.h	22;"	d
+I2C_SR_TIP	oc_i2c_regs.h	25;"	d
+INTVECTOR	svec.h	86;"	d
+INTVECTOR	vetar.h	84;"	d
+INT_LEVEL	svec.h	85;"	d
+INT_LEVEL	vetar.h	83;"	d
+KERNELDIR	Makefile	/^	KERNELDIR ?= \/lib\/modules\/$(shell uname -r)\/build$/;"	m
+KERNELDIR	Makefile	/^KERNELDIR ?= \/lib\/modules\/$(KERNELVER)\/build$/;"	m
+KERNELVER	Makefile	/^KERNELVER ?= `uname -r`$/;"	m
+MAP_CR_CSR	svec.h	/^	MAP_CR_CSR = 0,	\/* CR\/CSR *\/$/;"	e	enum:svec_map_win
+MAP_CR_CSR	vetar.h	/^	MAP_CR_CSR = 0,	\/* CR\/CSR *\/$/;"	e	enum:svec_map_win
+MAP_REG	svec.h	/^	MAP_REG		\/* A32 space *\/$/;"	e	enum:svec_map_win
+MAP_REG	vetar.h	/^	MAP_REG		\/* A32 space *\/$/;"	e	enum:svec_map_win
+PACKED	golden_regs.h	18;"	d
+PACKED	hw/wrc_syscon_regs.h	19;"	d
+PACKED	xloader_regs.h	19;"	d
+PWD	Makefile	/^	PWD       := $(shell pwd)$/;"	m
+RESET_CORE	svec.h	92;"	d
+RESET_CORE	vetar.h	90;"	d
+SVEC_BASE_LOADER	svec.h	21;"	d
+SVEC_BASE_LOADER	vetar.h	19;"	d
+SVEC_DEFAULT_IDX	svec.h	18;"	d
+SVEC_DEFAULT_IDX	vetar.h	16;"	d
+SVEC_I2C_EEPROM_SIZE	svec.h	28;"	d
+SVEC_IRQ_LEVEL	svec.h	19;"	d
+SVEC_IRQ_LEVEL	vetar.h	17;"	d
+SVEC_MAX_DEVICES	svec.h	17;"	d
+SVEC_MAX_DEVICES	vetar.h	15;"	d
+SVEC_N_SLOTS	svec.h	20;"	d
+SVEC_N_SLOTS	vetar.h	18;"	d
+SVEC_VENDOR_ID	svec.h	22;"	d
+SVEC_VENDOR_ID	vetar.h	20;"	d
+SYSC_GPCR_FMC_SCL	hw/wrc_syscon_regs.h	85;"	d
+SYSC_GPCR_FMC_SDA	hw/wrc_syscon_regs.h	88;"	d
+SYSC_GPCR_LED_LINK	hw/wrc_syscon_regs.h	82;"	d
+SYSC_GPCR_LED_STAT	hw/wrc_syscon_regs.h	79;"	d
+SYSC_GPCR_SFP_SCL	hw/wrc_syscon_regs.h	91;"	d
+SYSC_GPCR_SFP_SDA	hw/wrc_syscon_regs.h	94;"	d
+SYSC_GPSR_BTN1	hw/wrc_syscon_regs.h	62;"	d
+SYSC_GPSR_BTN2	hw/wrc_syscon_regs.h	65;"	d
+SYSC_GPSR_FMC_SCL	hw/wrc_syscon_regs.h	53;"	d
+SYSC_GPSR_FMC_SDA	hw/wrc_syscon_regs.h	56;"	d
+SYSC_GPSR_LED_LINK	hw/wrc_syscon_regs.h	50;"	d
+SYSC_GPSR_LED_STAT	hw/wrc_syscon_regs.h	47;"	d
+SYSC_GPSR_NET_RST	hw/wrc_syscon_regs.h	59;"	d
+SYSC_GPSR_SFP_DET	hw/wrc_syscon_regs.h	68;"	d
+SYSC_GPSR_SFP_SCL	hw/wrc_syscon_regs.h	71;"	d
+SYSC_GPSR_SFP_SDA	hw/wrc_syscon_regs.h	74;"	d
+SYSC_HWFR_MEMSIZE_MASK	hw/wrc_syscon_regs.h	99;"	d
+SYSC_HWFR_MEMSIZE_R	hw/wrc_syscon_regs.h	102;"	d
+SYSC_HWFR_MEMSIZE_SHIFT	hw/wrc_syscon_regs.h	100;"	d
+SYSC_HWFR_MEMSIZE_W	hw/wrc_syscon_regs.h	101;"	d
+SYSC_REG_GPCR	hw/wrc_syscon_regs.h	121;"	d
+SYSC_REG_GPSR	hw/wrc_syscon_regs.h	119;"	d
+SYSC_REG_HWFR	hw/wrc_syscon_regs.h	123;"	d
+SYSC_REG_RSTR	hw/wrc_syscon_regs.h	117;"	d
+SYSC_REG_TCR	hw/wrc_syscon_regs.h	125;"	d
+SYSC_REG_TVR	hw/wrc_syscon_regs.h	127;"	d
+SYSC_RSTR_RST	hw/wrc_syscon_regs.h	42;"	d
+SYSC_RSTR_TRIG_MASK	hw/wrc_syscon_regs.h	36;"	d
+SYSC_RSTR_TRIG_R	hw/wrc_syscon_regs.h	39;"	d
+SYSC_RSTR_TRIG_SHIFT	hw/wrc_syscon_regs.h	37;"	d
+SYSC_RSTR_TRIG_W	hw/wrc_syscon_regs.h	38;"	d
+SYSC_TCR_ENABLE	hw/wrc_syscon_regs.h	113;"	d
+SYSC_TCR_TDIV_MASK	hw/wrc_syscon_regs.h	107;"	d
+SYSC_TCR_TDIV_R	hw/wrc_syscon_regs.h	110;"	d
+SYSC_TCR_TDIV_SHIFT	hw/wrc_syscon_regs.h	108;"	d
+SYSC_TCR_TDIV_W	hw/wrc_syscon_regs.h	109;"	d
+VME_VENDOR_ID_OFFSET	svec.h	24;"	d
+VME_VENDOR_ID_OFFSET	vetar.h	22;"	d
+WB32	svec.h	90;"	d
+WB32	vetar.h	88;"	d
+WB64	svec.h	91;"	d
+WB64	vetar.h	89;"	d
+WBGEN2_GEN_MASK	golden_regs.h	25;"	d
+WBGEN2_GEN_MASK	hw/wrc_syscon_regs.h	26;"	d
+WBGEN2_GEN_MASK	xloader_regs.h	26;"	d
+WBGEN2_GEN_READ	golden_regs.h	27;"	d
+WBGEN2_GEN_READ	hw/wrc_syscon_regs.h	28;"	d
+WBGEN2_GEN_READ	xloader_regs.h	28;"	d
+WBGEN2_GEN_WRITE	golden_regs.h	26;"	d
+WBGEN2_GEN_WRITE	hw/wrc_syscon_regs.h	27;"	d
+WBGEN2_GEN_WRITE	xloader_regs.h	27;"	d
+WBGEN2_SIGN_EXTEND	golden_regs.h	28;"	d
+WBGEN2_SIGN_EXTEND	hw/wrc_syscon_regs.h	29;"	d
+WBGEN2_SIGN_EXTEND	xloader_regs.h	29;"	d
+WB_32_64	svec.h	87;"	d
+WB_32_64	vetar.h	85;"	d
+XLDR_CSR_BUSY	xloader_regs.h	45;"	d
+XLDR_CSR_CLKDIV_MASK	xloader_regs.h	57;"	d
+XLDR_CSR_CLKDIV_R	xloader_regs.h	60;"	d
+XLDR_CSR_CLKDIV_SHIFT	xloader_regs.h	58;"	d
+XLDR_CSR_CLKDIV_W	xloader_regs.h	59;"	d
+XLDR_CSR_DONE	xloader_regs.h	39;"	d
+XLDR_CSR_ERROR	xloader_regs.h	42;"	d
+XLDR_CSR_EXIT	xloader_regs.h	54;"	d
+XLDR_CSR_MSBF	xloader_regs.h	48;"	d
+XLDR_CSR_START	xloader_regs.h	36;"	d
+XLDR_CSR_SWRST	xloader_regs.h	51;"	d
+XLDR_FIFO_CSR_CLEAR_BUS	xloader_regs.h	96;"	d
+XLDR_FIFO_CSR_EMPTY	xloader_regs.h	93;"	d
+XLDR_FIFO_CSR_FULL	xloader_regs.h	90;"	d
+XLDR_FIFO_CSR_USEDW_MASK	xloader_regs.h	99;"	d
+XLDR_FIFO_CSR_USEDW_R	xloader_regs.h	102;"	d
+XLDR_FIFO_CSR_USEDW_SHIFT	xloader_regs.h	100;"	d
+XLDR_FIFO_CSR_USEDW_W	xloader_regs.h	101;"	d
+XLDR_FIFO_R0_XLAST	xloader_regs.h	77;"	d
+XLDR_FIFO_R0_XSIZE_MASK	xloader_regs.h	71;"	d
+XLDR_FIFO_R0_XSIZE_R	xloader_regs.h	74;"	d
+XLDR_FIFO_R0_XSIZE_SHIFT	xloader_regs.h	72;"	d
+XLDR_FIFO_R0_XSIZE_W	xloader_regs.h	73;"	d
+XLDR_FIFO_R1_XDATA_MASK	xloader_regs.h	82;"	d
+XLDR_FIFO_R1_XDATA_R	xloader_regs.h	85;"	d
+XLDR_FIFO_R1_XDATA_SHIFT	xloader_regs.h	83;"	d
+XLDR_FIFO_R1_XDATA_W	xloader_regs.h	84;"	d
+XLDR_REG_BTRIGR	xloader_regs.h	106;"	d
+XLDR_REG_CSR	xloader_regs.h	104;"	d
+XLDR_REG_FIFO_CSR	xloader_regs.h	116;"	d
+XLDR_REG_FIFO_R0	xloader_regs.h	112;"	d
+XLDR_REG_FIFO_R1	xloader_regs.h	114;"	d
+XLDR_REG_GPIOR	xloader_regs.h	108;"	d
+XLDR_REG_IDR	xloader_regs.h	110;"	d
+__I2C_REGS_H	oc_i2c_regs.h	2;"	d
+__SVEC_H__	svec.h	11;"	d
+__VETAR_H__	vetar.h	10;"	d
+__WBGEN2_MACROS_DEFINED__	golden_regs.h	24;"	d
+__WBGEN2_MACROS_DEFINED__	hw/wrc_syscon_regs.h	25;"	d
+__WBGEN2_MACROS_DEFINED__	xloader_regs.h	25;"	d
+__WBGEN2_REGDEFS_GOLDEN_WB_WB	golden_regs.h	15;"	d
+__WBGEN2_REGDEFS_WRC_SYSCON_WB_WB	hw/wrc_syscon_regs.h	15;"	d
+__WBGEN2_REGDEFS_XLOADER_WB_WB	xloader_regs.h	15;"	d
+check_golden	svec-fmc.c	/^static int check_golden(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+core_offset	i2c.c	/^static uint32_t core_offset[] = {$/;"	v	file:
+core_offset	svec-i2c.c	/^static uint32_t core_offset[] = { 0x10000, 0x11000 };$/;"	v	file:
+description	svec.h	/^	char			description[80];$/;"	m	struct:svec_dev	access:public
+description	vetar.h	/^	char			description[80];$/;"	m	struct:svec_dev	access:public
+dev	svec.h	/^	struct device		*dev;$/;"	m	struct:svec_dev	typeref:struct:svec_dev::device	access:public
+dev	vetar.h	/^	struct device		*dev;$/;"	m	struct:svec_dev	typeref:struct:svec_dev::device	access:public
+driver	svec.h	/^	char			driver[16];$/;"	m	struct:svec_dev	access:public
+driver	vetar.h	/^	char			driver[16];$/;"	m	struct:svec_dev	access:public
+dumpstruct	i2c.c	/^static void dumpstruct(char *name, void *ptr, int size)$/;"	f	file:	signature:(char *name, void *ptr, int size)
+dumpstruct	svec-i2c.c	/^static void dumpstruct(char *name, void *ptr, int size)$/;"	f	file:	signature:(char *name, void *ptr, int size)
+fmcs	svec.h	/^	struct fmc_device	*fmcs[SVEC_N_SLOTS];$/;"	m	struct:svec_dev	typeref:struct:svec_dev::fmc_device	access:public
+fmcs_n	svec.h	/^	int			fmcs_n;		\/* Number of FMC devices *\/$/;"	m	struct:svec_dev	access:public
+fw_hash	svec.h	/^	uint32_t		fw_hash;	$/;"	m	struct:svec_dev	access:public
+fw_hash	vetar.h	/^	uint32_t		fw_hash;$/;"	m	struct:svec_dev	access:public
+fw_name	svec-drv.c	/^static char *fw_name[SVEC_MAX_DEVICES];$/;"	v	file:
+fw_name	svec.h	/^	char			*fw_name;$/;"	m	struct:svec_dev	access:public
+fw_name	vetar.h	/^	char			*fw_name;$/;"	m	struct:svec_dev	access:public
+fw_name_num	svec-drv.c	/^static unsigned int fw_name_num;$/;"	v	file:
+get_sda	i2c.c	/^static int get_sda(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+golden_readl	i2c.c	/^static uint32_t golden_readl(struct fmc_device *fmc, int offset)$/;"	f	file:	signature:(struct fmc_device *fmc, int offset)
+golden_writel	i2c.c	/^static void golden_writel(struct fmc_device *fmc, uint32_t val, int offset)$/;"	f	file:	signature:(struct fmc_device *fmc, uint32_t val, int offset)
+i2c_readl	svec-i2c.c	/^static uint32_t i2c_readl(struct fmc_device *fmc, int offset)$/;"	f	file:	signature:(struct fmc_device *fmc, int offset)
+i2c_writel	svec-i2c.c	/^static void i2c_writel(struct fmc_device *fmc, uint32_t val, int offset)$/;"	f	file:	signature:(struct fmc_device *fmc, uint32_t val, int offset)
+irq_count	svec.h	/^	int			irq_count;	\/* for mezzanine use too *\/$/;"	m	struct:svec_dev	access:public
+irqcount	svec.h	/^	unsigned long		irqcount;$/;"	m	struct:svec_dev	access:public
+irqcount	vetar.h	/^	unsigned long		irqcount;$/;"	m	struct:svec_dev	access:public
+level	svec.h	/^	int			level;$/;"	m	struct:svec_dev	access:public
+level	vetar.h	/^	int			level;$/;"	m	struct:svec_dev	access:public
+lun	svec-drv.c	/^static int lun[SVEC_MAX_DEVICES] = SVEC_DEFAULT_IDX;$/;"	v	file:
+lun	svec.h	/^	int			lun;$/;"	m	struct:svec_dev	access:public
+lun	vetar-drv.c	/^static int lun[SVEC_MAX_DEVICES] = SVEC_DEFAULT_IDX;$/;"	v	file:
+lun	vetar.h	/^	int			lun;$/;"	m	struct:svec_dev	access:public
+lun_num	svec-drv.c	/^static unsigned int lun_num;$/;"	v	file:
+lun_num	vetar-drv.c	/^static unsigned int lun_num;$/;"	v	file:
+map	svec.h	/^	struct vme_mapping	*map[2];$/;"	m	struct:svec_dev	typeref:struct:svec_dev::vme_mapping	access:public
+map	vetar.h	/^	struct vme_mapping	*map[2];$/;"	m	struct:svec_dev	typeref:struct:svec_dev::vme_mapping	access:public
+mezzanine_present	i2c.c	/^static inline int mezzanine_present(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+mi2c_get_byte	i2c.c	/^int mi2c_get_byte(struct fmc_device *fmc, unsigned char *data, int sendack)$/;"	f	signature:(struct fmc_device *fmc, unsigned char *data, int sendack)
+mi2c_init	i2c.c	/^void mi2c_init(struct fmc_device *fmc)$/;"	f	signature:(struct fmc_device *fmc)
+mi2c_put_byte	i2c.c	/^int mi2c_put_byte(struct fmc_device *fmc, int data)$/;"	f	signature:(struct fmc_device *fmc, int data)
+mi2c_scan	i2c.c	/^void mi2c_scan(struct fmc_device *fmc)$/;"	f	signature:(struct fmc_device *fmc)
+mi2c_start	i2c.c	/^static void mi2c_start(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+mi2c_stop	i2c.c	/^static void mi2c_stop(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+obj-m	Makefile	/^	obj-m	:= vetar.o$/;"	m
+oc_i2c_init	svec-i2c.c	/^static void oc_i2c_init(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+oc_i2c_read	svec-i2c.c	/^static int oc_i2c_read(struct fmc_device *fmc, int i2c_addr, uint8_t *buf, size_t size)$/;"	f	file:	signature:(struct fmc_device *fmc, int i2c_addr, uint8_t *buf, size_t size)
+oc_i2c_scan_bus	svec-i2c.c	/^static int oc_i2c_scan_bus(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+oc_i2c_wait_busy	svec-i2c.c	/^static uint32_t oc_i2c_wait_busy(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+oc_i2c_write	svec-i2c.c	/^static int oc_i2c_write(struct fmc_device *fmc, int i2c_addr, const uint8_t *buf, size_t size)$/;"	f	file:	signature:(struct fmc_device *fmc, int i2c_addr, const uint8_t *buf, size_t size)
+set_scl	i2c.c	/^static void set_scl(struct fmc_device *fmc, int val)$/;"	f	file:	signature:(struct fmc_device *fmc, int val)
+set_sda	i2c.c	/^static void set_sda(struct fmc_device *fmc, int val)$/;"	f	file:	signature:(struct fmc_device *fmc, int val)
+slot	svec-drv.c	/^static int  slot[SVEC_MAX_DEVICES];$/;"	v	file:
+slot	svec.h	/^	int			slot;$/;"	m	struct:svec_dev	access:public
+slot	vetar-drv.c	/^static int  slot[SVEC_MAX_DEVICES];$/;"	v	file:
+slot	vetar.h	/^	int			slot;$/;"	m	struct:svec_dev	access:public
+slot_num	svec-drv.c	/^static unsigned int slot_num;$/;"	v	file:
+slot_num	vetar-drv.c	/^static unsigned int slot_num;$/;"	v	file:
+svec_attr_group	svec-sysfs.c	/^static struct attribute_group svec_attr_group = {$/;"	v	typeref:struct:attribute_group	file:
+svec_attrs	svec-sysfs.c	/^static struct attribute *svec_attrs[] = {$/;"	v	typeref:struct:attribute	file:
+svec_bootloader_unlock	svec-drv.c	/^int svec_bootloader_unlock(struct svec_dev *svec)$/;"	f	signature:(struct svec_dev *svec)
+svec_bootloader_unlock	svec.h	/^extern int svec_bootloader_unlock (struct svec_dev *svec);$/;"	p	signature:(struct svec_dev *svec)
+svec_create_sysfs_files	svec-sysfs.c	/^int svec_create_sysfs_files (struct svec_dev *card)$/;"	f	signature:(struct svec_dev *card)
+svec_create_sysfs_files	svec.h	/^extern int svec_create_sysfs_files(struct svec_dev *card);$/;"	p	signature:(struct svec_dev *card)
+svec_csr_write	svec-drv.c	/^static void svec_csr_write(u8 value, void *base, u32 offset)$/;"	f	file:	signature:(u8 value, void *base, u32 offset)
+svec_csr_write	vetar-drv.c	/^static void svec_csr_write(u8 value, void *base, u32 offset)$/;"	f	file:	signature:(u8 value, void *base, u32 offset)
+svec_dev	svec.h	/^struct svec_dev {$/;"	s
+svec_dev	vetar.h	/^struct svec_dev {$/;"	s
+svec_dev::description	svec.h	/^	char			description[80];$/;"	m	struct:svec_dev	access:public
+svec_dev::description	vetar.h	/^	char			description[80];$/;"	m	struct:svec_dev	access:public
+svec_dev::dev	svec.h	/^	struct device		*dev;$/;"	m	struct:svec_dev	typeref:struct:svec_dev::device	access:public
+svec_dev::dev	vetar.h	/^	struct device		*dev;$/;"	m	struct:svec_dev	typeref:struct:svec_dev::device	access:public
+svec_dev::driver	svec.h	/^	char			driver[16];$/;"	m	struct:svec_dev	access:public
+svec_dev::driver	vetar.h	/^	char			driver[16];$/;"	m	struct:svec_dev	access:public
+svec_dev::fmcs	svec.h	/^	struct fmc_device	*fmcs[SVEC_N_SLOTS];$/;"	m	struct:svec_dev	typeref:struct:svec_dev::fmc_device	access:public
+svec_dev::fmcs_n	svec.h	/^	int			fmcs_n;		\/* Number of FMC devices *\/$/;"	m	struct:svec_dev	access:public
+svec_dev::fw_hash	svec.h	/^	uint32_t		fw_hash;	$/;"	m	struct:svec_dev	access:public
+svec_dev::fw_hash	vetar.h	/^	uint32_t		fw_hash;$/;"	m	struct:svec_dev	access:public
+svec_dev::fw_name	svec.h	/^	char			*fw_name;$/;"	m	struct:svec_dev	access:public
+svec_dev::fw_name	vetar.h	/^	char			*fw_name;$/;"	m	struct:svec_dev	access:public
+svec_dev::irq_count	svec.h	/^	int			irq_count;	\/* for mezzanine use too *\/$/;"	m	struct:svec_dev	access:public
+svec_dev::irqcount	svec.h	/^	unsigned long		irqcount;$/;"	m	struct:svec_dev	access:public
+svec_dev::irqcount	vetar.h	/^	unsigned long		irqcount;$/;"	m	struct:svec_dev	access:public
+svec_dev::level	svec.h	/^	int			level;$/;"	m	struct:svec_dev	access:public
+svec_dev::level	vetar.h	/^	int			level;$/;"	m	struct:svec_dev	access:public
+svec_dev::lun	svec.h	/^	int			lun;$/;"	m	struct:svec_dev	access:public
+svec_dev::lun	vetar.h	/^	int			lun;$/;"	m	struct:svec_dev	access:public
+svec_dev::map	svec.h	/^	struct vme_mapping	*map[2];$/;"	m	struct:svec_dev	typeref:struct:svec_dev::vme_mapping	access:public
+svec_dev::map	vetar.h	/^	struct vme_mapping	*map[2];$/;"	m	struct:svec_dev	typeref:struct:svec_dev::vme_mapping	access:public
+svec_dev::slot	svec.h	/^	int			slot;$/;"	m	struct:svec_dev	access:public
+svec_dev::slot	vetar.h	/^	int			slot;$/;"	m	struct:svec_dev	access:public
+svec_dev::vector	svec.h	/^	int			vector;$/;"	m	struct:svec_dev	access:public
+svec_dev::vector	vetar.h	/^	int			vector;$/;"	m	struct:svec_dev	access:public
+svec_dev::vmebase	svec.h	/^	uint32_t		vmebase;$/;"	m	struct:svec_dev	access:public
+svec_dev::vmebase	vetar.h	/^	uint32_t		vmebase;$/;"	m	struct:svec_dev	access:public
+svec_driver	svec-drv.c	/^static struct vme_driver svec_driver = {$/;"	v	typeref:struct:vme_driver	file:
+svec_driver	vetar-drv.c	/^static struct vme_driver svec_driver = {$/;"	v	typeref:struct:vme_driver	file:
+svec_eeprom_read	i2c.c	/^int svec_eeprom_read(struct fmc_device *fmc, uint32_t offset,$/;"	f	signature:(struct fmc_device *fmc, uint32_t offset, void *buf, size_t size)
+svec_eeprom_read	svec-i2c.c	/^int svec_eeprom_read(struct fmc_device *fmc, uint32_t offset,$/;"	f	signature:(struct fmc_device *fmc, uint32_t offset, void *buf, size_t size)
+svec_eeprom_read	svec.h	/^extern int svec_eeprom_read(struct fmc_device *fmc, uint32_t offset,$/;"	p	signature:(struct fmc_device *fmc, uint32_t offset, void *buf, size_t size)
+svec_eeprom_write	i2c.c	/^int svec_eeprom_write(struct fmc_device *fmc, uint32_t offset,$/;"	f	signature:(struct fmc_device *fmc, uint32_t offset, const void *buf, size_t size)
+svec_eeprom_write	svec-i2c.c	/^int svec_eeprom_write(struct fmc_device *fmc, uint32_t offset,$/;"	f	signature:(struct fmc_device *fmc, uint32_t offset, const void *buf, size_t size)
+svec_eeprom_write	svec.h	/^extern int svec_eeprom_write(struct fmc_device *fmc, uint32_t offset,$/;"	p	signature:(struct fmc_device *fmc, uint32_t offset, const void *buf, size_t size)
+svec_exit	svec-drv.c	/^module_exit(svec_exit);$/;"	v
+svec_exit	svec-drv.c	/^static void __exit svec_exit(void)$/;"	f	file:	signature:(void)
+svec_exit	vetar-drv.c	/^module_exit(svec_exit);$/;"	v
+svec_exit	vetar-drv.c	/^static void __exit svec_exit(void)$/;"	f	file:	signature:(void)
+svec_fmc_create	svec-fmc.c	/^int svec_fmc_create(struct svec_dev *svec)$/;"	f	signature:(struct svec_dev *svec)
+svec_fmc_create	svec.h	/^extern int svec_fmc_create(struct svec_dev *svec);$/;"	p	signature:(struct svec_dev *svec)
+svec_fmc_destroy	svec-fmc.c	/^void svec_fmc_destroy(struct svec_dev *svec)$/;"	f	signature:(struct svec_dev *svec)
+svec_fmc_destroy	svec.h	/^extern void svec_fmc_destroy(struct svec_dev *svec);$/;"	p	signature:(struct svec_dev *svec)
+svec_fmc_operations	svec-fmc.c	/^static struct fmc_operations svec_fmc_operations = {$/;"	v	typeref:struct:fmc_operations	file:
+svec_fmc_prepare	svec-fmc.c	/^int svec_fmc_prepare(struct svec_dev *svec, unsigned int fmc_slot)$/;"	f	signature:(struct svec_dev *svec, unsigned int fmc_slot)
+svec_fw_name	svec-drv.c	/^char *svec_fw_name = "fmc\/svec-golden.bin";$/;"	v
+svec_fw_name	vetar-drv.c	/^char *svec_fw_name = "fmc\/svec-golden.bin";$/;"	v
+svec_gpio_config	svec-fmc.c	/^static int svec_gpio_config(struct fmc_device *fmc, struct fmc_gpio *gpio,$/;"	f	file:	signature:(struct fmc_device *fmc, struct fmc_gpio *gpio, int ngpio)
+svec_i2c_dump	i2c.c	/^static int svec_i2c_dump;$/;"	v	file:
+svec_i2c_dump	svec-i2c.c	/^static int svec_i2c_dump;$/;"	v	file:
+svec_i2c_exit	i2c.c	/^void svec_i2c_exit(struct fmc_device *fmc)$/;"	f	signature:(struct fmc_device *fmc)
+svec_i2c_exit	svec-i2c.c	/^void svec_i2c_exit(struct fmc_device *fmc)$/;"	f	signature:(struct fmc_device *fmc)
+svec_i2c_exit	svec.h	/^extern void svec_i2c_exit(struct fmc_device *fmc);$/;"	p	signature:(struct fmc_device *fmc)
+svec_i2c_init	i2c.c	/^int svec_i2c_init(struct fmc_device *fmc)$/;"	f	signature:(struct fmc_device *fmc)
+svec_i2c_init	svec-i2c.c	/^int svec_i2c_init(struct fmc_device *fmc, unsigned int slot)$/;"	f	signature:(struct fmc_device *fmc, unsigned int slot)
+svec_i2c_init	svec.h	/^extern int svec_i2c_init(struct fmc_device *fmc);$/;"	p	signature:(struct fmc_device *fmc)
+svec_init	svec-drv.c	/^module_init(svec_init);$/;"	v
+svec_init	svec-drv.c	/^static int __init svec_init(void)$/;"	f	file:	signature:(void)
+svec_init	vetar-drv.c	/^module_init(svec_init);$/;"	v
+svec_init	vetar-drv.c	/^static int __init svec_init(void)$/;"	f	file:	signature:(void)
+svec_irq_ack	svec-fmc.c	/^static void svec_irq_ack(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+svec_irq_free	svec-fmc.c	/^static int svec_irq_free(struct fmc_device *fmc)$/;"	f	file:	signature:(struct fmc_device *fmc)
+svec_irq_request	svec-fmc.c	/^static int svec_irq_request(struct fmc_device *fmc, irq_handler_t handler,$/;"	f	file:	signature:(struct fmc_device *fmc, irq_handler_t handler, char *name, int flags)
+svec_is_bootloader_active	svec-drv.c	/^int svec_is_bootloader_active(struct svec_dev *svec)$/;"	f	signature:(struct svec_dev *svec)
+svec_is_bootloader_active	svec.h	/^extern int svec_is_bootloader_active(struct svec_dev *svec);$/;"	p	signature:(struct svec_dev *svec)
+svec_is_present	svec-drv.c	/^int svec_is_present(struct svec_dev *svec)$/;"	f	signature:(struct svec_dev *svec)
+svec_is_present	vetar-drv.c	/^int svec_is_present(struct svec_dev *svec)$/;"	f	signature:(struct svec_dev *svec)
+svec_load_fpga	svec-drv.c	/^int svec_load_fpga(struct svec_dev *svec, const void *blob, int size)$/;"	f	signature:(struct svec_dev *svec, const void *blob, int size)
+svec_load_fpga	svec.h	/^extern int svec_load_fpga(struct svec_dev *svec, const void *data, int size);$/;"	p	signature:(struct svec_dev *svec, const void *data, int size)
+svec_load_fpga_file	svec-drv.c	/^int svec_load_fpga_file(struct svec_dev *svec, const char *name)$/;"	f	signature:(struct svec_dev *svec, const char *name)
+svec_load_fpga_file	svec.h	/^extern int svec_load_fpga_file(struct svec_dev *svec, const char *name);$/;"	p	signature:(struct svec_dev *svec, const char *name)
+svec_map_win	svec.h	/^enum svec_map_win {$/;"	g
+svec_map_win	vetar.h	/^enum svec_map_win {$/;"	g
+svec_map_window	svec-drv.c	/^int svec_map_window(struct svec_dev *svec, enum svec_map_win map_type)$/;"	f	signature:(struct svec_dev *svec, enum svec_map_win map_type)
+svec_map_window	svec.h	/^extern int svec_map_window( struct svec_dev *svec, enum svec_map_win map_type);$/;"	p	signature:( struct svec_dev *svec, enum svec_map_win map_type)
+svec_map_window	vetar-drv.c	/^int svec_map_window(struct svec_dev *svec, enum svec_map_win map_type)$/;"	f	signature:(struct svec_dev *svec, enum svec_map_win map_type)
+svec_map_window	vetar.h	/^extern int svec_map_window( struct svec_dev *svec, enum svec_map_win map_type);$/;"	p	signature:( struct svec_dev *svec, enum svec_map_win map_type)
+svec_probe	svec-drv.c	/^static int svec_probe(struct device *pdev, unsigned int ndev)$/;"	f	file:	signature:(struct device *pdev, unsigned int ndev)
+svec_probe	vetar-drv.c	/^static int svec_probe(struct device *pdev, unsigned int ndev)$/;"	f	file:	signature:(struct device *pdev, unsigned int ndev)
+svec_read_ee	svec-fmc.c	/^static int svec_read_ee(struct fmc_device *fmc, int pos, void *data, int len)$/;"	f	file:	signature:(struct fmc_device *fmc, int pos, void *data, int len)
+svec_readl	svec-fmc.c	/^static uint32_t svec_readl(struct fmc_device *fmc, int offset)$/;"	f	file:	signature:(struct fmc_device *fmc, int offset)
+svec_remove	svec-drv.c	/^static int svec_remove(struct device *pdev, unsigned int ndev)$/;"	f	file:	signature:(struct device *pdev, unsigned int ndev)
+svec_remove	vetar-drv.c	/^static int svec_remove(struct device *pdev, unsigned int ndev)$/;"	f	file:	signature:(struct device *pdev, unsigned int ndev)
+svec_remove_sysfs_files	svec-sysfs.c	/^void svec_remove_sysfs_files (struct svec_dev *card)$/;"	f	signature:(struct svec_dev *card)
+svec_remove_sysfs_files	svec.h	/^extern void svec_remove_sysfs_files(struct svec_dev *card);$/;"	p	signature:(struct svec_dev *card)
+svec_reprogram	svec-fmc.c	/^static int svec_reprogram(struct fmc_device *fmc, struct fmc_driver *drv,$/;"	f	file:	signature:(struct fmc_device *fmc, struct fmc_driver *drv, char *gw)
+svec_setup_csr_fa0	svec-drv.c	/^void svec_setup_csr_fa0(void *base, u32 vme, unsigned vector, unsigned level)$/;"	f	signature:(void *base, u32 vme, unsigned vector, unsigned level)
+svec_setup_csr_fa0	svec.h	/^extern void svec_setup_csr_fa0(void *base, u32 vme, unsigned vector,$/;"	p	signature:(void *base, u32 vme, unsigned vector, unsigned level)
+svec_setup_csr_fa0	vetar-drv.c	/^void svec_setup_csr_fa0(void *base, u32 vme, unsigned vector, unsigned level)$/;"	f	signature:(void *base, u32 vme, unsigned vector, unsigned level)
+svec_setup_csr_fa0	vetar.h	/^extern void svec_setup_csr_fa0(void *base, u32 vme, unsigned vector,$/;"	p	signature:(void *base, u32 vme, unsigned vector, unsigned level)
+svec_show_bootloader_active	svec-sysfs.c	/^static ssize_t svec_show_bootloader_active(struct device *pdev,$/;"	f	file:	signature:(struct device *pdev, struct device_attribute *attr, char *buf)
+svec_show_firmware_name	svec-sysfs.c	/^static ssize_t svec_show_firmware_name(struct device *pdev,$/;"	f	file:	signature:(struct device *pdev, struct device_attribute *attr, char *buf)
+svec_show_interrupt_level	svec-sysfs.c	/^static ssize_t svec_show_interrupt_level(struct device *pdev,$/;"	f	file:	signature:(struct device *pdev, struct device_attribute *attr, char *buf)
+svec_show_interrupt_vector	svec-sysfs.c	/^static ssize_t svec_show_interrupt_vector(struct device *pdev,$/;"	f	file:	signature:(struct device *pdev, struct device_attribute *attr, char *buf)
+svec_show_sdb	svec-fmc.c	/^static int svec_show_sdb;$/;"	v	file:
+svec_store_bootloader_active	svec-sysfs.c	/^static ssize_t svec_store_bootloader_active(struct device *pdev,$/;"	f	file:	signature:(struct device *pdev, struct device_attribute *attr, const char *buf, size_t count)
+svec_store_firmware_name	svec-sysfs.c	/^static ssize_t svec_store_firmware_name(struct device *pdev,$/;"	f	file:	signature:(struct device *pdev, struct device_attribute *attr, const char *buf, size_t count)
+svec_unmap_window	svec-drv.c	/^int svec_unmap_window(struct svec_dev *svec, enum svec_map_win map_type)$/;"	f	signature:(struct svec_dev *svec, enum svec_map_win map_type)
+svec_unmap_window	svec.h	/^extern int svec_unmap_window(struct svec_dev *svec, enum svec_map_win map_type);$/;"	p	signature:(struct svec_dev *svec, enum svec_map_win map_type)
+svec_unmap_window	vetar-drv.c	/^int svec_unmap_window(struct svec_dev *svec, enum svec_map_win map_type)$/;"	f	signature:(struct svec_dev *svec, enum svec_map_win map_type)
+svec_unmap_window	vetar.h	/^extern int svec_unmap_window(struct svec_dev *svec, enum svec_map_win map_type);$/;"	p	signature:(struct svec_dev *svec, enum svec_map_win map_type)
+svec_validate	svec-fmc.c	/^static int svec_validate(struct fmc_device *fmc, struct fmc_driver *drv)$/;"	f	file:	signature:(struct fmc_device *fmc, struct fmc_driver *drv)
+svec_write_ee	svec-fmc.c	/^static int svec_write_ee(struct fmc_device *fmc, int pos,$/;"	f	file:	signature:(struct fmc_device *fmc, int pos, const void *data, int len)
+svec_writel	svec-fmc.c	/^static void svec_writel(struct fmc_device *fmc, uint32_t val, int offset)$/;"	f	file:	signature:(struct fmc_device *fmc, uint32_t val, int offset)
+vector	svec-drv.c	/^static int  vector[SVEC_MAX_DEVICES];$/;"	v	file:
+vector	svec.h	/^	int			vector;$/;"	m	struct:svec_dev	access:public
+vector	vetar-drv.c	/^static int  vector[SVEC_MAX_DEVICES];$/;"	v	file:
+vector	vetar.h	/^	int			vector;$/;"	m	struct:svec_dev	access:public
+vector_num	svec-drv.c	/^static unsigned int vector_num;$/;"	v	file:
+vector_num	vetar-drv.c	/^static unsigned int vector_num;$/;"	v	file:
+vetar-objs	Makefile	/^	vetar-objs := svec-drv.o$/;"	m
+vmebase	svec-drv.c	/^static unsigned int vmebase[SVEC_MAX_DEVICES];$/;"	v	file:
+vmebase	svec.h	/^	uint32_t		vmebase;$/;"	m	struct:svec_dev	access:public
+vmebase	vetar-drv.c	/^static unsigned int vmebase[SVEC_MAX_DEVICES];$/;"	v	file:
+vmebase	vetar.h	/^	uint32_t		vmebase;$/;"	m	struct:svec_dev	access:public
+vmebase_num	svec-drv.c	/^static unsigned int vmebase_num;$/;"	v	file:
+vmebase_num	vetar-drv.c	/^static unsigned int vmebase_num;$/;"	v	file:
